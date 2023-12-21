@@ -8,6 +8,7 @@ namespace OOP
 {
     class Details
     {
+
         private string[] firstName;
         private string[] middleName;
         private string[] lastName;
